@@ -1,5 +1,6 @@
 
-![logo](https://github.com/asthatripathi17/draft1/blob/main/client/src/assets/logo.svg)
+![logo](https://github.com/user-attachments/assets/a9b7f1b1-4153-456b-8d62-bc31b9f2cc04)
+
 
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
