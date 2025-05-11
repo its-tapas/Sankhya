@@ -88,7 +88,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
    docker run -d -p 3000:3000 --name sankhya-server tapaslov/draft1-server:latest
 
    # Run Frontend Container (Port 5173)
-   docker run -d -p 5173:5173 --name sankhya-client **asthatripathi17**/draft1-client:latest
+   docker run -d -p 5173:5173 --name sankhya-client tapaslov/draft1-client:latest
    ```
 
 4. **Access the application:**
